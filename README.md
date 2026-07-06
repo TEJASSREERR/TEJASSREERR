@@ -57,16 +57,19 @@
 
 #### 🗂️ [Task Manager App](https://github.com/TEJASSREERR/TASK_MANAGER)
 A productivity-focused task management app with create, update, delete, and status-tracking features. Built with a React/Next.js frontend using Google OAuth & JWT authentication, integrated with a REST Framework backend and PostgreSQL database.
+
 🔗 [Live Demo](https://task-manager-gold-two.vercel.app)
 `Next.js` `React` `Django REST Framework` `PostgreSQL` `JWT` `Google OAuth` `Tailwind CSS`
 
 #### 📊 [Multi-Tenant SaaS Admin Dashboard](https://github.com/TEJASSREERR/saas-admin)
 A full-featured SaaS admin panel with user management, subscription tracking, payment analytics, and notifications, built with a component-driven architecture and dynamic Chart.js visualizations.
+
 🔗 [Live Demo](https://saas-admin-indol.vercel.app)
 `React` `Chart.js` `react-chartjs-2` `Tailwind CSS`
 
 #### 📈 [BisInsight Analytics Dashboard](https://github.com/TEJASSREERR/BISLNSIGHT-DASHBOARD-)
 A business analytics dashboard with interactive data visualizations, powered by a FastAPI backend serving analytics data via JSON REST endpoints.
+
 🔗 [Live Demo](https://tejassreerr.github.io/BISLNSIGHT-DASHBOARD-)
 `FastAPI` `HTML5` `CSS3` `JavaScript` `Chart.js`
 
