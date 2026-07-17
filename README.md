@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,16 +36,41 @@
     <h2>🛠️ Tech Stack</h2>
 
     <h3>Frontend</h3>
-    <p>React, Next.js, JavaScript, TypeScript, Tailwind CSS, Bootstrap</p>
+    <p>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </p>
 
     <h3>Backend</h3>
-    <p>Node.js, Express.js, Django, FastAPI, Flask</p>
+    <p>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+    </p>
 
     <h3>Databases & Tools</h3>
-    <p>MongoDB, MySQL, PostgreSQL, Firebase, Git, Docker, Postman</p>
+    <p>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+    </p>
 
     <h3>Cloud & Deployment</h3>
-    <p>Vercel, AWS, Railway</p>
+    <p>
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+    </p>
   </section>
 
   <hr />
@@ -55,21 +79,21 @@
     <h2>📌 Featured Projects</h2>
 
     <article>
-      <h3>🗂️ Task Manager App</h3>
+      <h3>🗂️ <a href="https://github.com/TEJASSREERR/TASK_MANAGER" target="_blank" rel="noreferrer">Task Manager App</a></h3>
       <p>A productivity-focused task management app with create, update, delete, and status-tracking features. Built with a React/Next.js frontend using Google OAuth & JWT authentication, integrated with a REST Framework backend and PostgreSQL database.</p>
       <p>🔗 <a href="https://task-manager-gold-two.vercel.app" target="_blank" rel="noreferrer">Live Demo</a></p>
       <p><code>Next.js</code> <code>React</code> <code>Django REST Framework</code> <code>PostgreSQL</code> <code>JWT</code> <code>Google OAuth</code> <code>Tailwind CSS</code></p>
     </article>
 
     <article>
-      <h3>📊 Multi-Tenant SaaS Admin Dashboard</h3>
+      <h3>📊 <a href="https://github.com/TEJASSREERR/saas-admin" target="_blank" rel="noreferrer">Multi-Tenant SaaS Admin Dashboard</a></h3>
       <p>A full-featured SaaS admin panel with user management, subscription tracking, payment analytics, and notifications, built with a component-driven architecture and dynamic Chart.js visualizations.</p>
       <p>🔗 <a href="https://saas-admin-indol.vercel.app" target="_blank" rel="noreferrer">Live Demo</a></p>
       <p><code>React</code> <code>Chart.js</code> <code>react-chartjs-2</code> <code>Tailwind CSS</code></p>
     </article>
 
     <article>
-      <h3>📈 BisInsight Analytics Dashboard</h3>
+      <h3>📈 <a href="https://github.com/TEJASSREERR/BISLNSIGHT-DASHBOARD-" target="_blank" rel="noreferrer">BisInsight Analytics Dashboard</a></h3>
       <p>A business analytics dashboard with interactive data visualizations, powered by a FastAPI backend serving analytics data via JSON REST endpoints.</p>
       <p>🔗 <a href="https://tejassreerr.github.io/BISLNSIGHT-DASHBOARD-" target="_blank" rel="noreferrer">Live Demo</a></p>
       <p><code>FastAPI</code> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Chart.js</code></p>
@@ -112,9 +136,15 @@
   <section>
     <h2>📫 Let's Connect</h2>
     <p>
-      <a href="https://www.linkedin.com/in/tejassree-r-r-20a677259" target="_blank" rel="noreferrer">LinkedIn</a><br />
-      <a href="mailto:tejassreerr@gmail.com">tejassreerr@gmail.com</a><br />
-      <a href="https://my-portfolio-beryl-mu-66.vercel.app" target="_blank" rel="noreferrer">Portfolio</a>
+      <a href="https://www.linkedin.com/in/tejassree-r-r-20a677259" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:tejassreerr@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <a href="https://my-portfolio-beryl-mu-66.vercel.app" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+      </a>
     </p>
   </section>
 
@@ -123,4 +153,3 @@
   </footer>
 </body>
 </html>
-```
