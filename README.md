@@ -85,18 +85,18 @@ A business analytics dashboard with interactive data visualizations, powered by 
 
 ### 🏆 Certifications
 
-Master AI With Web Development — Simplilearn SkillUp (2026)
-Full Stack Development — NoviTech (2026)
-Advanced Python — Simplilearn SkillUp (2026)
-Full Stack Development — Wipro TalentNext (2025)
-Web Development — CodeTech IT Solutions (2025)
-IBM SkillsBuild AI Fundamentals (2025)
-Artificial Intelligence & Data Analytics — NoviTech (2024)
-Networking Basics — Cisco Networking Academy (Jul 2024)
-The Open University — Information Security (2024)
-C Programming — Pentasoftware (2023)
-JavaScript — Mindluster (2023)
-Employability Skill Training Program — Mahindra Pride Classroom & Naandi Foundation (2024–2025)
+— Master AI With Web Development — Simplilearn SkillUp (2026)
+— Full Stack Development — NoviTech (2026)
+— Advanced Python — Simplilearn SkillUp (2026)
+— Full Stack Development — Wipro TalentNext (2025)
+— Web Development — CodeTech IT Solutions (2025)
+— IBM SkillsBuild AI Fundamentals (2025)
+— Artificial Intelligence & Data Analytics — NoviTech (2024)
+— Networking Basics — Cisco Networking Academy (Jul 2024)
+— The Open University — Information Security (2024)
+— C Programming — Pentasoftware (2023)
+— JavaScript — Mindluster (2023)
+— Employability Skill Training Program — Mahindra Pride Classroom & Naandi Foundation (2024–2025)
 
 ---
 
